@@ -1,0 +1,2 @@
+# CSV_Library_Python_Project
+This class project taught me how to create a basic user interface that will take the user through menu choices and how to read in values from an excel speadsheet ".csv" file. Each choice leads to a different option, such as listing the values in alphabetical order to comparing the number of times a value appeared versus another value (How many times an artist showed up in a list of song titles).
